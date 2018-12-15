@@ -4,7 +4,7 @@
 
 Übersicht über alle Leipziger LVB Haltestellen und deren nächste Verbindung auf eine Click
 
-> TODO web link
+> http://ec2-52-59-120-86.eu-central-1.compute.amazonaws.com:8081/#/
 
 ## Getting startet
 
@@ -13,7 +13,7 @@
 * recomment [intellij](https://www.jetbrains.com/idea/) for development
 * require [docker](https://docs.docker.com/install/) for release
 
-> TODO link dockerhub
+> https://cloud.docker.com/u/jwausle/repository/docker/jwausle/lvb1click
 
 ```bash
 $ git clone 
