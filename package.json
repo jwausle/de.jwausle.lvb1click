@@ -8,7 +8,9 @@
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue src",
-    "test": "echo \"No test specified\" && exit 0"
+    "test": "echo \"No test specified\" && exit 0",
+    "install": "quasar build && docker build -t jwausle/lvb1click:quasar .",
+    "release": "quasar build && docker build -t jwausle/lvb1click:quasar . && docker push jwausle/lvb1click:quasar"
   },
   "dependencies": {
     "axios": "^0.18.0",
@@ -16,6 +18,7 @@
     "jsdom": "^13.0.0",
     "sprintf-js": "^1.1.2",
     "string_decoder": "^1.2.0",
+    "vue-browser-geolocation": "^1.5.0",
     "vue2-leaflet": "^1.2.3"
   },
   "devDependencies": {

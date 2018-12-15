@@ -21,7 +21,7 @@ $ cd de.jwausle.lvb1click
 $ quasar dev
 ```
 
-<img href="./doc/screenshot.png" />
+<img src="./doc/screenshot.png" />
 
 ## Development
 

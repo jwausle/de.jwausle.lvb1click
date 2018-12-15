@@ -6,7 +6,8 @@ module.exports = function (ctx) {
     plugins: [
       'axios',
       'jsdom',
-      'sprintf'
+      'sprintf',
+      'geolocation'
     ],
     css: [
       'app.styl'
@@ -54,6 +55,7 @@ module.exports = function (ctx) {
         'QIcon',
         'QList',
         'QListHeader',
+        'QLayoutFooter',
         'QItem',
         'QItemMain',
         'QItemSide'
