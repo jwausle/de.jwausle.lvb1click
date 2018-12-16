@@ -2,9 +2,9 @@
 
 > (L)eipziger-(V)erkehrs-(B)etriebe Haltestellen auf einen Click
 
-Übersicht über alle Leipziger LVB Haltestellen und deren nächste Verbindung auf eine Click
+Übersicht über alle Leipziger LVB Haltestellen und deren nächste Verbindung auf einen Click
 
-> http://ec2-52-59-120-86.eu-central-1.compute.amazonaws.com:8081/#/
+> https://lvb1click.wasistdas.org/#/
 
 ## Getting startet
 
